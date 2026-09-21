@@ -1,0 +1,4 @@
+# Runtime dependency for the interactive dashboard.
+# The analysis engine and CLI use only the Python standard library.
+streamlit>=1.33,<2
+
